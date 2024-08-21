@@ -15,7 +15,7 @@ CaesarCypher/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/caesar_cipher_app.git
+   git clone https://github.com/oWarren320/CaesarCypher.git
    
 2. Navigate to the project directory:
 3. Set up a virtual environment:
